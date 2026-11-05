@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.eweko17.dafeiyu",
+    "sha256_cert_fingerprints": ["FA:40:CA:39:F3:B0:CE:0A:BE:86:69:80:32:CA:76:9F:EE:58:34:F5:BC:F5:B9:AB:FA:C5:0A:AF:EF:E0:47:C7"]
+  }
+}]
